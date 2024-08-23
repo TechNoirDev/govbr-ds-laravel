@@ -29,6 +29,7 @@ interação dos usuários com os sistemas interativos do Governo Brasileiro.
 
 ### Registro de usuário (Laravel Breeze)
 <kbd>![Tela de ](screenshots/2.png)</kbd>
+
 ---
 
 ### Painel inicial
