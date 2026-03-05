@@ -16,5 +16,8 @@
     "dependencies": {
         "@govbr-ds/core": "^3.5.1",
         "sass": "^1.77.8"
+    },
+    "overrides": {
+        "immutable": ">=5.1.5"
     }
 }
